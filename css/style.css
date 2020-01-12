@@ -1,0 +1,32 @@
+body {
+    position: relative;
+}
+
+nav#navbar {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.font-dancing-script {
+    font-family: "Dancing Script", cursive;
+}
+
+.font-serif {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-goldenrod {
+    color: goldenrod;
+}
+
+#steak {
+    background-image: url("../img/steak.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+#reservation {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1tN59BgawIw5B5P2T3DZblIZLmS7oOg0ixBzT5zSIPti1NKjZ");
+    background-size: cover;
+}
